@@ -4,46 +4,40 @@ const WorkoutSessions = () => {
   return (
     <section className="workout_session">
       <div className="wrapper">
-        <h1>TOP WORKOUT SESSION</h1>
+        <h1>Top Workout Session</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur,
-          quisquam. Eaque alias, blanditiis quidem maiores illo unde ipsam!
+          Discover our top workout sessions designed to help you achieve your fitness goals. Join us and experience the best training routines!
         </p>
         <img src="/img5.jpg" alt="workout" />
       </div>
       <div className="wrapper">
-        <h1>FEATURED BOOTCAMPS</h1>
+        <h1>Featured Bootcamps</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti
-          impedit quasi sunt amet rerum accusamus odio eveniet unde?
+          Explore our featured bootcamps, offering a variety of training programs to suit all fitness levels. Get started on your fitness journey today!
         </p>
         <div className="bootcamps">
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>High-Intensity Group Training</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+              Join our high-intensity bootcamp sessions to burn calories, build strength, and stay motivated with group workouts.
             </p>
           </div>
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>Expert-Led Fitness Sessions</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+              Experience expert-led training sessions focused on improving endurance, flexibility, and overall fitness.
             </p>
           </div>
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>Personalized Guidance for All Levels</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+              Our bootcamps are suitable for all levels, providing personalized guidance and support throughout your journey.
             </p>
           </div>
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>Start Your Fitness Journey Today</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+              Sign up today and take the first step towards a healthier, stronger, and more confident you!
             </p>
           </div>
         </div>
